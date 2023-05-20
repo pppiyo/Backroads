@@ -7,7 +7,7 @@ https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FE
 
 [Course Git]
 https://github.com/john-smilga/react-course-v3
-=======
+
 # Backroads App
 
 [Working Application - Deployed](https://backroads-app.netlify.app/)
