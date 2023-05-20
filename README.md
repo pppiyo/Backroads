@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React
 React fundamental practices from Udemy
 
@@ -412,4 +411,3 @@ package.json
     "eject": "react-scripts eject"
   },
 ```
->>>>>>> de6461c (break up components from cooked html)
